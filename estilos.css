@@ -10,7 +10,7 @@ header {
    	top:0; left: 0;
 	height:20%;
     width:80%;
-    background-color:black;
+    background-color:white;
 
 }
 footer {
@@ -55,14 +55,14 @@ nav li a { color: #fff;
 text-decoration: none;
 }
 p {
-	color:white;
+	color:black;
 }
 .descripcion {
 	margin-left:20px;
 }
 .modalidades {
 	font-style:italic;
-	color:white;
+	color:black;
 	margin-left:20px;
 }
 .elaboracion {
